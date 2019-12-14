@@ -1,0 +1,10 @@
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\bin\Debug\tryingNew Ideas.exe.config
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\bin\Debug\tryingNew Ideas.exe
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\bin\Debug\tryingNew Ideas.pdb
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew Ideas.csprojAssemblyReference.cache
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew_Ideas.Form1.resources
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew_Ideas.Properties.Resources.resources
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew Ideas.csproj.GenerateResource.cache
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew Ideas.csproj.CoreCompileInputs.cache
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew Ideas.exe
+C:\Users\Z _M\source\repos\tryingNew Ideas\tryingNew Ideas\obj\Debug\tryingNew Ideas.pdb
